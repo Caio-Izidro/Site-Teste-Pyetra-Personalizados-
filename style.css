@@ -196,6 +196,8 @@ summary:hover{
     nav {
         gap: 10px;
         flex-wrap: nowrap;
+        text-align: center;
+        align-items: center;
     }
 
     a {
@@ -248,6 +250,7 @@ summary:hover{
 
     .opcoes {
         font-size: 16px;
+
     }
 
     /* Mostruário: 1 imagem por linha no celular */
